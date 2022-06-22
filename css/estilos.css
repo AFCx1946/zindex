@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.caja1{
+    position: relative;
+    background-color: rgb(103, 0, 163);
+    height: 30rem;
+    width: 100%;
+}
+.caja2{
+    position: relative;
+    background-color: rgb(103, 0, 163);
+    height: 30rem;
+    width: 100%;
+}
+.caja3{
+    position: relative;
+    background-color: rgb(103, 0, 163);
+    height: 30rem;
+    width: 100%;
+}
+
+#uno{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+#dos{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2;
+}
+#tres{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 3;
+}
+#cuatro{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 4;
+}
